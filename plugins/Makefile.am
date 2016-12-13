@@ -15,6 +15,7 @@ SUBDIRS = \
 	file-search \
 	flatpak \
 	fpaste \
+	func-jump \
 	gcc \
 	gettext \
 	git \

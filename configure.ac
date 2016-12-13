@@ -289,6 +289,7 @@ m4_include([plugins/devhelp/configure.ac])
 m4_include([plugins/file-search/configure.ac])
 m4_include([plugins/flatpak/configure.ac])
 m4_include([plugins/fpaste/configure.ac])
+m4_include([plugins/func-jump/configure.ac])
 m4_include([plugins/gcc/configure.ac])
 m4_include([plugins/gettext/configure.ac])
 m4_include([plugins/git/configure.ac])
@@ -602,6 +603,7 @@ echo "  Ctags ................................ : ${enable_ctags_plugin}"
 echo "  Devhelp .............................. : ${enable_devhelp_plugin}"
 echo "  Editorconfig ......................... : ${enable_editorconfig}"
 echo "  Fpaste.org ........................... : ${enable_fpaste_plugin}"
+echo "  Function Jump......................... : ${enable_func_jump_plugin}"
 echo "  GCC .................................. : ${enable_gcc_plugin}"
 echo "  Gettext .............................. : ${enable_gettext_plugin}"
 echo "  Git Version Control .................. : ${enable_git_plugin}"

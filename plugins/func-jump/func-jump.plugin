@@ -1,0 +1,9 @@
+[Plugin]
+Module=func-jump-plugin
+Name=Function Jump
+Description=Jump to a function in a given file by inputting it's name
+Authors=Tashrif Sanil <tashrifsanil@kloke-source.com>
+Copyright=Copyright © 2016 Tashrif Sanil
+Depends=editor
+Builtin=false
+
